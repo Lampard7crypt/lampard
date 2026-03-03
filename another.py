@@ -1,1 +1,3 @@
-pass
+def another():
+  pass
+  
